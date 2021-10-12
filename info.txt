@@ -1,0 +1,4 @@
+name = Fire Locator
+author = NLferdiNL
+description = [noupload]Locate any active fires.
+tags = Gameplay, Tool
